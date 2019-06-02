@@ -3,6 +3,6 @@ Jaki jest protokó³ u¿ywany do wykrycia fizycznego adresu ze znanego adresu logic
 ARP, multicast
 DNS, unicast
 DNS, broadcast
-ARP, transmisja 
+ARP, broadcast
 PING, multicast
 PING, broadcast
