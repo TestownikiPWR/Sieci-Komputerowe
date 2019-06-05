@@ -1,6 +1,0 @@
-X0001
-Zobacz wystawê. Administrator sieci konfiguruje kontrolê dostêpu do prze³¹czania SW1. Jeœli administrator korzysta z po³¹czenia konsoli, aby po³¹czyæ siê z prze³¹cznikiem, które has³o jest potrzebne do uzyskania dostêpu do trybu EXEC u¿ytkownika?
-wpuœæ mnie
-sekretina
-linevtyin
-linekonina(lineconin)

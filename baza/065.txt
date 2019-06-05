@@ -1,4 +1,4 @@
-X0100
+X1000
 Który przyk³ad szkodliwego kodu zosta³by sklasyfikowany jako koñ trojañski?
 z³oœliwe oprogramowanie napisane tak, aby wygl¹da³o jak gra wideo 
 z³oœliwe oprogramowanie wymagaj¹ce rêcznej interwencji u¿ytkownika w celu rozprzestrzeniania siê miêdzy systemami
