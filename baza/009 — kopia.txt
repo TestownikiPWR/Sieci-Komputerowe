@@ -1,6 +1,0 @@
-X0010
- Jaki rodzaj zabezpieczeñ bezprzewodowych jest ³atwo zagro¿ony?
- EAP
- PSK
- WEP 
- WPA

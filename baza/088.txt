@@ -1,7 +1,6 @@
-X10001
-Jakie s¹ dwa g³ówne sk³adniki Cisco Express Forwarding (CEF)? (Wybierz dwa.)
-sto³y przyleg³oœci 
-Tabele adresów MAC
-tabele routingu
-Tabele ARP
-przekazywana baza informacji (FIB) 
+X0010
+Jaka jest reprezentacja binarna 0xCA?
+10111010
+11010101
+11001010 
+11011010

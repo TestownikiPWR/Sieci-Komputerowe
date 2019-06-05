@@ -1,0 +1,6 @@
+X0001
+Jaki jest mechanizm TCP w unikaniu zatorów?
+potrójny uœcisk d³oni
+para gniazd
+dwukierunkowy uœcisk d³oni
+okno przesuwne

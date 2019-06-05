@@ -1,0 +1,7 @@
+X10100
+Jakie dwie role mo¿e przyj¹æ komputer w sieci peer-to-peer, w której plik jest wspó³dzielony miêdzy dwoma komputerami? (Wybierz dwa.)
+klient
+mistrz
+serwer
+niewolnik
+przemijaj¹cy

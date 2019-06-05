@@ -1,0 +1,6 @@
+X1000
+Co zrobi host w sieci Ethernet, jeœli otrzyma ramkê z docelowym adresem MAC, który nie pasuje do w³asnego adresu MAC?
+Odrzuci ramkê. 
+Przeka¿e ramkê do nastêpnego hosta.
+Usunie ramkê z noœnika.
+Usunie ramkê ³¹cza danych, aby sprawdziæ docelowy adres IP.

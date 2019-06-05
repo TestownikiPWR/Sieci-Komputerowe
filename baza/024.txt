@@ -1,0 +1,9 @@
+X0010110
+Jakie s¹ trzy podstawowe funkcje zapewniane przez hermetyzacjê danych warstwy 2? (Wybierz trzy.)
+korekcja b³êdów dziêki metodzie wykrywania kolizji
+kontrola sesji przy u¿yciu numerów portów
+adresowanie warstwy ³¹cza danych 
+umieszczanie i usuwanie ramek z mediów
+wykrywanie b³êdów za pomoc¹ obliczeñ CRC 
+ograniczanie grup bitów do ramek 
+konwersja bitów na sygna³y danych

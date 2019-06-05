@@ -1,6 +1,7 @@
-X0001
-Jaki jest g³ówny powód przedrostków IPv6 podsieci?
-oszczêdzaæ adresy IPv6,
-aby unikn¹æ marnowania adresów IPv6 w
-celu zachowania prefiksów IPv6 w
-celu utworzenia hierarchicznego projektu sieci warstwy 3 
+X00001
+Która nazwa jest przypisana do PDU warstwy transportowej?
+kawa³ki
+dane
+rama
+paczka
+cz³on

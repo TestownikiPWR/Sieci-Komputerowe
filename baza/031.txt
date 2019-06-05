@@ -1,0 +1,7 @@
+X00110
+Jakie s¹ dwie us³ugi dostarczane przez warstwê sieciow¹ OSI? (Wybierz dwa.)
+wykrywanie b³êdów
+trasowanie pakietów w kierunku miejsca docelowego 
+enkapsulacja PDU z warstwy transportowej 
+umieszczanie ramek na noœniku
+wykrywanie kolizji

@@ -1,7 +1,6 @@
-X11000
-Które dwie us³ugi lub protoko³y wykorzystuj¹ preferowany protokó³ UDP do szybkiej transmisji i niskich kosztów? (Wybierz dwa)
-VoIP 
-DNS 
-HTTP
-FTP
-POP3
+X0100
+Na którym interfejsie prze³¹cznika administrator skonfigurowa³by adres IP, aby prze³¹cznik móg³ byæ zarz¹dzany zdalnie?
+FastEthernet0 / 1
+VLAN 1
+vty 0
+konsola 0

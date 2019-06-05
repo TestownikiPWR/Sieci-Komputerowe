@@ -1,6 +1,6 @@
-X0100
-Która metoda przekazywania ramek odbiera ca³¹ ramkê i wykonuje kontrolê CRC, aby wykryæ b³êdy przed przekazaniem ramki?
-prze³¹czanie przelotowe
-prze³¹czanie do przechowywania i przekazywania 
-prze³¹czanie bez fragmentów
-szybkie prze³¹czanie do przodunymi. 
+X0001
+Jaka jest cecha sieci odpornej na uszkodzenia?
+sieæ, która chroni poufne informacje przed nieautoryzowanym dostêpem
+sieæ, która mo¿e siê szybko rozwijaæ, aby obs³ugiwaæ nowych u¿ytkowników i aplikacje bez wp³ywu na wydajnoœæ us³ugi dostarczanej dotychczasowym u¿ytkownikom
+sieæ, która obs³uguje mechanizm zarz¹dzania przeci¹¿eniem i zapewnia niezawodne dostarczanie treœci wszystkim u¿ytkownikom
+sieæ, która szybko siê odzyskuje, gdy wyst¹pi awaria i zale¿y od redundancji, aby ograniczyæ wp³yw awarii 

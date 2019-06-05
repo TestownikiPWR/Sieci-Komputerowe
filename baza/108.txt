@@ -1,6 +1,6 @@
-X1000
-Jakiego parametru u¿ywa router, aby wybraæ œcie¿kê do miejsca docelowego, gdy dostêpnych jest wiele tras?
-ni¿sza wartoœæ metryki powi¹zana z sieci¹ docelow¹ 
-ni¿szy adres IP bramy, aby dostaæ siê do sieci docelowej
-wy¿sza wartoœæ metryki powi¹zana z sieci¹ docelow¹
-wy¿szy adres IP bramy, aby dostaæ siê do sieci docelowej
+X0100
+Jaka cecha sieci pozwala jej szybko siê rozwijaæ, aby obs³ugiwaæ nowych u¿ytkowników i aplikacje bez wp³ywu na wydajnoœæ us³ugi dostarczanej dotychczasowym u¿ytkownikom?
+niezawodnoœæ
+skalowalnoœæ 
+jakoœæ us³ugi
+dostêpnoœæ

@@ -1,0 +1,6 @@
+X0100
+Jakie wa¿ne informacje s¹ dodawane do nag³ówka warstwy transportowej TCP / IP, aby zapewniæ komunikacjê i ³¹cznoœæ ze zdalnym urz¹dzeniem sieciowym?
+synchronizacja i synchronizacja
+numery portów docelowych i Ÿród³owych 
+docelowe i Ÿród³owe adresy fizyczne
+docelowe i Ÿród³owe logiczne adresy sieciowe

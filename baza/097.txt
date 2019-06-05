@@ -1,7 +1,6 @@
-XX1000
-Trzech pracowników biurowych korzysta z sieci firmowej. Pierwszy pracownik korzysta z przegl¹darki internetowej, aby wyœwietliæ firmow¹ stronê internetow¹, aby przeczytaæ niektóre og³oszenia. Drugi pracownik
-uzyskuje dostêp do korporacyjnej bazy danych w celu wykonania niektórych transakcji finansowych. Trzeci pracownik bierze udzia³ w wa¿nej konferencji audio na ¿ywo z innymi pracownikami biurowymi w oddzia³ach. Jeœli w tej sieci wdro¿ono QoS, jakie bêd¹ priorytety od najwy¿szego do najni¿szego spoœród ró¿nych typów danych?
-konferencja audio, transakcje finansowe, strona internetowa 
-transakcje finansowe, strona internetowa, konferencja audio
-konferencja audio, strona internetowa, transakcje finansowe
-transakcje finansowe, konferencja audio, strona internetowa
+X0100
+Jaka jest ró¿nica miêdzy modelami sieci klient-serwer i peer-to-peer?
+Tylko w modelu klient-serwer mog¹ wyst¹piæ transfery plików.
+Ka¿de urz¹dzenie w sieci peer-to-peer mo¿e funkcjonowaæ jako klient lub serwer. 
+Sieæ typu peer-to-peer przesy³a dane szybciej ni¿ transfer za pomoc¹ sieci klient-serwer.
+Transfer danych wykorzystuj¹cy urz¹dzenie pe³ni¹ce rolê klienta wymaga obecnoœci dedykowanego serwera.

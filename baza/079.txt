@@ -1,0 +1,7 @@
+X00100
+Jaki unikalny adres jest wbudowany w kartê sieciow¹ Ethernet i u¿ywany do komunikacji w sieci Ethernet?
+adres hosta
+adres IP
+Adres MAC 
+adres sieciowy
+warstwa k

@@ -1,7 +1,6 @@
-X10011
-Host uzyskuje dostêp do serwera Telnet w sieci zdalnej. Jakie trzy funkcje s¹ wykonywane przez poœrednicz¹ce urz¹dzenia sieciowe podczas tej rozmowy? (Wybierz trzy.)
-regeneracja sygna³ów danych 
-dzia³aj¹c jako klient lub serwer
-zapewnienie kana³u, nad którym przesuwaj¹ siê wiadomoœci
-stosowanie ustawieñ bezpieczeñstwa do kontrolowania przep³ywu danych 
-powiadamianie innych urz¹dzeñ o wyst¹pieniu b³êdu 
+X1000
+Jaka jest funkcja komunikatu HTTP GET?
+za¿¹daæ strony HTML z serwera WWW 
+wysy³aæ informacje o b³êdach z serwera internetowego do klienta WWW
+aby przes³aæ zawartoœæ do serwera WWW z klienta WWW
+pobraæ e-mail klienta z serwera e-mail za pomoc¹ portu 110 TCP

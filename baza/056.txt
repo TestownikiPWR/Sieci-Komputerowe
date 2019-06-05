@@ -1,0 +1,7 @@
+X11000
+Jakie s¹ dwa sposoby, w jaki TCP u¿ywa numerów sekwencyjnych w segmencie? (Wybierz dwa.)
+zidentyfikowaæ brakuj¹ce segmenty w miejscu docelowym 
+ponownie z³o¿yæ segmenty w odleg³ej lokalizacji 
+aby okreœliæ kolejnoœæ, w której segmenty przemieszczaj¹ siê od Ÿród³a do miejsca docelowego
+aby ograniczyæ liczbê segmentów, które mog¹ byæ wysy³ane za jednym razem
+aby okreœliæ, czy pakiet zmieni³ siê podczas tranzytu

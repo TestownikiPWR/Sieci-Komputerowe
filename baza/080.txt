@@ -1,0 +1,7 @@
+X01000
+Jak¹ procedurê stosuje siê w celu zmniejszenia wp³ywu przes³uchu na kable miedziane?
+wymagaj¹ce prawid³owych po³¹czeñ uziemiaj¹cych
+skrêcanie przeciwnych par przewodów obwodu 
+owijanie wi¹zki drutów metalow¹ os³on¹
+projektowanie infrastruktury kablowej w celu unikniêcia zak³óceñ przes³uchów
+unikanie ostrych zagiêæ podczas instalacji

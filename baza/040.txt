@@ -1,7 +1,8 @@
-X10011
-Które trzy stwierdzenia charakteryzuj¹ protoko³y warstwy transportowej? (Wybierz trzy.)
-Numery portów TCP i UDP s¹ u¿ywane przez protoko³y warstwy aplikacji. 
-TCP u¿ywa numerów portów, aby zapewniæ niezawodny transport pakietów IP.
-UDP u¿ywa okienkowania i potwierdzeñ do niezawodnego przesy³ania danych.
-Protokó³ TCP wykorzystuje okienkowanie i sekwencjonowanie w celu zapewnienia niezawodnego przesy³ania danych. 
-TCP jest protoko³em zorientowanym na po³¹czenie. UDP jest protoko³em bezpo³¹czeniowym. 
+X100101
+Które trzy adresy s¹ prawid³owymi adresami publicznymi? (Wybierz trzy.)
+198.133.219.17 
+192.168.1.245
+10.15.250.5
+128.107.12.117 
+192.15.301.240
+64.104.78.227 

@@ -1,6 +1,7 @@
-X0100
-Które pole w nag³ówku pakietu IPv4 zwykle pozostanie takie samo podczas transmisji?
-D³ugoœæ pakietu
-Adres docelowy 
-Oznacz
-Czas do ¿ycia
+X10000
+U¿ytkownik domowy szuka po³¹czenia ISP, które zapewnia szybk¹ transmisjê cyfrow¹ na zwyk³ych liniach telefonicznych. Jakiego typu po³¹czenia ISP nale¿y u¿yæ?
+DSL 
+Wykrêciæ numer
+satelita
+modem komórkowy
+modem kablowy

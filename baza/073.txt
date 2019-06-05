@@ -1,6 +1,6 @@
-X1000
-Jaki jest cel funkcji uwierzytelniania sieciowego?
-wymagaæ od u¿ytkowników udowodnienia, kim s¹ 
-aby okreœliæ, do których zasobów u¿ytkownik mo¿e uzyskaæ dostêp
-œledziæ dzia³ania u¿ytkownika
-w celu zapewnienia pytañ dotycz¹cych wyzwañ i odpowiedzi
+X0001
+Jaki Ÿród³owy adres IP u¿ywa routera domyœlnie po wydaniu polecenia traceroute?
+najwy¿szy skonfigurowany adres IP na routerze
+najni¿szy skonfigurowany adres IP na routerze
+adres IP pêtli zwrotnej
+adres IP interfejsu wychodz¹cego 

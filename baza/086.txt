@@ -1,0 +1,7 @@
+X01010
+Które dwa polecenia mog¹ byæ u¿ywane na hoœcie systemu Windows do wyœwietlania tabeli routingu? (Wybierz dwa.)
+netstat -s
+wydruk trasy 
+poka¿ trasê IP
+netstat -r 
+tracert

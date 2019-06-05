@@ -1,0 +1,6 @@
+X0001
+Technik mo¿e pingowaæ adres IP serwera WWW firmy zdalnej, ale nie mo¿e pomyœlnie pingowaæ adresu URL tego samego serwera WWW. Które narzêdzie programowe mo¿e u¿yæ technik do zdiagnozowania problemu?
+tracert
+ipconfig
+netstat
+nslookup 

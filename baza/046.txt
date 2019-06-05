@@ -1,6 +1,6 @@
-X0010
-Jakie urz¹dzenie jest zwykle u¿ywane do weryfikacji kabla UTP?
-multimetr
-Optyczny reflektometr czasu w domenie
-tester kabli 
-omomierz
+X1000
+Która podsieæ zawiera adres 192.168.1.96 jako u¿yteczny adres hosta?
+192.168.1.64/26
+192.168.1.32/27
+192.168.1.32/28
+192.168.1.64/29

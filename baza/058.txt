@@ -1,0 +1,8 @@
+X101100
+Które trzy stwierdzenia charakteryzuj¹ UDP? (Wybierz trzy.)
+UDP zapewnia podstawowe funkcje bezpo³¹czeniowej warstwy transportowej. 
+UDP zapewnia szybki transfer danych zorientowany na po³¹czenie w warstwie 3.
+UDP opiera siê na protoko³ach warstwy aplikacji do wykrywania b³êdów. 
+UDP jest protoko³em niskiego narzutu, który nie zapewnia mechanizmów sekwencjonowania ani sterowania przep³ywem. 
+UDP opiera siê na protokole IP do wykrywania i odzyskiwania b³êdów.
+UDP zapewnia zaawansowane mechanizmy kontroli przep³ywu.

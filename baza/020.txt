@@ -1,0 +1,7 @@
+X10001
+Jakie s¹ dwie cechy kabla œwiat³owodowego? (Wybierz dwa.)
+Nie ma na niego wp³ywu EMI ani RFI. 
+Ka¿da para kabli jest owiniêta metalow¹ foli¹.
+£¹czy technikê anulowania, ekranowania i skrêcania w celu ochrony danych.
+Zazwyczaj zawiera 4 pary œwiat³owodów.
+Jest dro¿szy ni¿ okablowanie UTP. 

@@ -1,6 +1,8 @@
-X1000
-Podczas normalnej pracy, z której lokalizacji wiêkszoœæ prze³¹czników i routerów Cisco uruchamia system IOS?
-BARAN
-Lampa b³yskowa
-NVRAM
-Napêd
+X100100
+Które dwa protoko³y dzia³aj¹ na najwy¿szej warstwie stosu protoko³ów TCP / IP? (Wybierz dwa.)
+DNS 
+Ethernet
+IP
+MUZYKA POP
+TCP
+UDP

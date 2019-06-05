@@ -1,6 +1,6 @@
-X0010
-W sieci korzystaj¹cej z IPv4, jaki przedrostek najlepiej pasowa³by do podsieci zawieraj¹cej 100 hostów?
-/ 23
-/ 24
-/ 25 
-/ 26
+X1000
+Która funkcja zapory jest u¿ywana do zapewnienia, ¿e ??pakiety przychodz¹ce do sieci s¹ uzasadnionymi odpowiedziami na ¿¹dania inicjowane przez wewnêtrzne hosty?
+stanowa inspekcja pakietów 
+Filtrowanie adresów URL
+filtrowanie aplikacji
+filtrowanie pakietów

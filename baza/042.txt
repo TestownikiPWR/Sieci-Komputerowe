@@ -1,6 +1,7 @@
-X0001
-Który interfejs routera powinien byæ u¿ywany do bezpoœredniego zdalnego dostêpu do routera zapoœrednictwem modemu?
-interfejs routera inband
-port konsoli
-szeregowy interfejs WAN
-port AUX 
+X00010
+Ile prawid³owych adresów hostów jest dostêpnych w podsieci IPv4 skonfigurowanej z mask¹ / 26?
+254
+190
+192
+62 
+64

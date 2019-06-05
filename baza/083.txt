@@ -1,0 +1,6 @@
+X1000
+Jeœli urz¹dzenie otrzyma ramkê Ethernet 60 bajtów, co zrobi?
+upuœæ ramkê 
+przetwarzaj ramkê bez zmian
+wyœlij komunikat o b³êdzie do urz¹dzenia wysy³aj¹cego
+dodaj losowe bajty danych, aby uzyskaæ 64 bajty, a nastêpnie przeka¿ je dalej

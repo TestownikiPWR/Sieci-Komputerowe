@@ -1,0 +1,6 @@
+X1000
+Planuj¹c rozwój sieci, gdzie w sieci powinny byæ przechwytywane pakiety w celu oceny ruchu sieciowego?
+na jak najwiêkszej liczbie ró¿nych segmentów sieci 
+tylko na skraju sieci
+miêdzy hostami a bram¹ domyœln¹
+tylko w najbardziej ruchliwym segmencie sieci

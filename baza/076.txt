@@ -1,7 +1,6 @@
-X01001
-Które dwa komponenty s¹ konfigurowane za pomoc¹ oprogramowania, aby komputer móg³ uczestniczyæ w œrodowisku sieciowym? (Wybierz dwa.)
-Adres MAC
-Adres IP
-j¹dro
-muszla
-maska podsieci
+X0001
+Jak¹ funkcjê ma naciœniêcie klawisza Tab podczas wprowadzania polecenia w IOS?
+Przerywa bie¿¹ce polecenie i powraca do trybu konfiguracji.
+Wyjœcie z trybu konfiguracji i powrót do trybu u¿ytkownika EXEC.
+Przesuwa kursor na pocz¹tek nastêpnego wiersza.
+Uzupe³nia resztê czêœciowo wpisanego s³owa w poleceniu. 

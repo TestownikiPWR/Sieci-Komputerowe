@@ -1,7 +1,6 @@
-X01010
-Firma ma adres sieciowy 192.168.1.64 z mask¹ podsieci 255.255.255.192. Firma chce utworzyæ dwie podsieci,które bêd¹ zawieraæ odpowiednio 10 hostów i 18 hostów. Które dwie sieci to osi¹gn¹? (Wybierz dwa.)
-192.168.1.16/28
-192.168.1.64/27
-192.168.1.128/27
-192.168.1.96/28
-192.168.1.192/28
+X0010
+Co wskazuje na to, ¿e komputer z systemem Windows nie otrzyma³ adresu IPv4 z serwera DHCP?
+Komputer nie mo¿e pingowaæ 127.0.0.1.
+System Windows wyœwietla komunikat limitu czasu DHCP.
+Komputer otrzymuje adres IP rozpoczynaj¹cy siê od 169.254 
+Komputer nie mo¿e pingowaæ innych urz¹dzeñ w tej samej sieci z adresami IP w zakresie 169.254.0.0/16.

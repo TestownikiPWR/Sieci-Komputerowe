@@ -1,8 +1,26 @@
-X110010
-Jakie s¹ trzy wa¿ne kwestie przy planowaniu struktury schematu adresowania IP? (Wybierz trzy.)
-Zapobieganie powielaniu adresów 
-zapewnianie i kontrolowanie dostêpu 
-dokumentowanie
-monitoringu sieci bezpieczeñstwa i adresów oszczêdzaj¹cych 
-wydajnoœæ 
-wdra¿anie nowych us³ug
+X0100
+Jaka jest korzyœæ z u¿ywania protoko³u zdefiniowanego przez otwarty standard?
+Firma mo¿e zmonopolizowaæ rynek.
+Protokó³ mo¿na uruchomiæ tylko na sprzêcie od okreœlonego dostawcy.
+Otwarty protokó³ standardowy nie jest kontrolowany ani regulowany przez organizacje normalizacyjne.
+Zachêca do rywalizacji i promuje wybory. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+X0010
+Który scenariusz opisuje funkcjê zapewnion¹ przez warstwê transportow¹?
+Uczeñ u¿ywa domowego telefonu VoIP, aby zadzwoniæ do domu. Unikalny identyfikator wypalony w telefonie jest adresem warstwy transportowej u¿ywanym do kontaktowania siê z innym urz¹dzeniem sieciowym w tej samej sieci.
+Uczeñ odtwarza krótki film internetowy z dŸwiêkiem. Film i dŸwiêk s¹ zakodowane w nag³ówku warstwy transportowej.
+Student ma otwarte dwa okna przegl¹darki internetowej, aby uzyskaæ dostêp do dwóch stron internetowych. Warstwa transportowa zapewnia, ¿e ??prawid³owa strona internetowa jest dostarczana do w³aœciwego okna przegl¹darki. 
+Pracownik korporacyjny uzyskuje dostêp do serwera internetowego znajduj¹cego siê w sieci firmowej. Warstwa transportowa formatuje ekran, aby strona internetowa by³a wyœwietlana poprawnie, niezale¿nie od tego, jakie urz¹dzenie jest u¿ywane do przegl¹dania strony internetowej.

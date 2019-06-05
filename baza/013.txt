@@ -1,6 +1,7 @@
-X0100
-Które stwierdzenie opisuje przepustowoœæ danych?
-Jest miar¹ bitów przenoszonych przez media w doskona³ych warunkach.
-Jest miar¹ bitów przesy³anych przez media w danym okresie czasu. 
-Wskazuje zdolnoœæ danego noœnika do przenoszenia danych.
-Jest to gwarantowana szybkoœæ przesy³ania danych oferowana przez dostawcê us³ug internetowych.
+X01001
+Które dwie warstwy modelu OSI maj¹ tak¹ sam¹ funkcjonalnoœæ jak dwie warstwy modelu TCP / IP? (Wybierz dwa.)
+³¹cza danych
+sieæ
+fizyczny
+sesja
+transport

@@ -1,6 +1,6 @@
-X0010
-Jaka treœæ pola jest u¿ywana przez ICMPv6 w celu ustalenia, ¿e pakiet wygas³?
-Pole TTL
-Pole CRC
-Pole Limit przeskoków 
-Pole przekroczenia czasu
+X01000
+Które stwierdzenie jest prawdziwe w przypadku maskowania podsieci o zmiennej d³ugoœci?
+Ka¿da podsieæ ma ten sam rozmiar.
+Rozmiar ka¿dej podsieci mo¿e byæ inny, w zale¿noœci od wymagañ. 
+Podsieci mog¹ byæ podsieci tylko jeden dodatkowy czas.
+Bity s¹ zwracane, a nie po¿yczane, w celu utworzenia dodatkowych podsieci.

@@ -1,0 +1,6 @@
+X1000
+Jaka warstwa odpowiada za kierowanie wiadomoœci przez intersieæ w modelu TCP / IP?
+Internet
+transport
+dostêp do sieci
+sesja

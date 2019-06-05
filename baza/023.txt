@@ -1,0 +1,6 @@
+X0010
+Jaka metoda s³u¿y do zarz¹dzania dostêpem opartym na rywalizacji w sieci bezprzewodowej?
+CSMA / CD
+pierwszeñstwo zamawiania
+CSMA / CA 
+przekazywanie ¿etonów

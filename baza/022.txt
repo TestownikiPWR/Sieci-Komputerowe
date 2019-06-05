@@ -1,0 +1,6 @@
+X0100
+Zespó³ sieci porównuje fizyczne topologie WAN w celu po³¹czenia odleg³ych lokalizacji z budynkiem centrali. Która topologia zapewnia wysok¹ dostêpnoœæ i ³¹czy niektóre, ale nie wszystkie, zdalne lokalizacje?
+siatka
+cz¹stkowa siatka 
+hub i mówi³
+punkt-punkt

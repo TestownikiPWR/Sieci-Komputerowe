@@ -1,6 +1,7 @@
-X0100
-Jakie typy adresów stanowi¹ wiêkszoœæ adresów w przestrzeni bitowej / 8 bloku IPv4?
-adresy prywatne
-adresy publiczne 
-adresy multiemisji
-adresy eksperymentalne
+X10000
+Które polecenie mo¿e wydaæ administrator na routerze Cisco, aby wysy³aæ komunikaty debugowania do linii vty?
+monitor terminala 
+konsola logowania
+rejestrowanie buforowane
+rejestrowanie synchroniczne
+Wype³nij puste miejsce.

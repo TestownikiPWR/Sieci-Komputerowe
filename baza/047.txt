@@ -1,6 +1,7 @@
-X1000
-Jakie jest mo¿liwe zagro¿enie, które mo¿e byæ spowodowane przez kable sieciowe w po¿arze?
-Izolacja kabla mo¿e byæ ³atwopalna. 
-U¿ytkownicy mog¹ byæ nara¿eni na nadmierne napiêcie.
-Kable sieciowe mog¹ byæ nara¿one na dzia³anie wody.
-Kabel sieciowy mo¿e eksplodowaæ.
+X00100
+Jaka maska ??podsieci jest potrzebna, jeœli sieæ IPv4 ma 40 urz¹dzeñ, które nie wymagaj¹ zmarnowania adresów IP i przestrzeni adresowej?
+255.255.255.0
+255.255.255.128
+255.255.255.192 
+255.255.255.224
+255.255.255.240

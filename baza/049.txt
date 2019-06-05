@@ -1,6 +1,7 @@
-X0100
-Która technika zapory blokuje przychodz¹ce pakiety, chyba ¿e s¹ to odpowiedzi na wewnêtrzne ¿¹dania?
-filtrowanie portów
-kontrola stanu pakietów 
-Filtrowanie adresów URL
-filtrowanie aplikacji
+X00010
+Dlaczego numery portów s¹ zawarte w nag³ówku TCP segmentu?
+wskazaæ prawid³owy interfejs routera, który powinien zostaæ u¿yty do przekazania segmentu
+zidentyfikowaæ, które porty prze³¹czaj¹ce powinny odbieraæ lub przekazywaæ segment
+aby okreœliæ, który protokó³ warstwy 3 powinien byæ u¿yty do hermetyzacji danych
+aby umo¿liwiæ hostowi odbieraj¹cemu przekazanie danych do odpowiedniej aplikacji 
+aby umo¿liwiæ hostowi odbieraj¹cemu z³o¿enie pakietu we w³aœciwej kolejnoœci

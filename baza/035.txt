@@ -1,7 +1,8 @@
-X00100
-Po wprowadzeniu zmian w konfiguracji administrator sieci wydaje polecenie running-config startup-config copy w prze³¹czniku Cisco. Jaki jest rezultat wydania tego polecenia?
-
-Nowa konfiguracja zostanie zapisana w pamiêci flash.
-Nowa konfiguracja zostanie za³adowana po ponownym uruchomieniu prze³¹cznika. 
-Obecny plik IOS zostanie zast¹piony nowo skonfigurowanym plikiem.
-Zmiany konfiguracji zostan¹ usuniête, a pierwotna konfiguracja zostanie przywrócona.
+X011100
+Jakie s¹ trzy cechy transmisji multicastowej? (Wybierz trzy.)
+Adres Ÿród³owy transmisji multicast mieœci siê w zakresie od 224.0.0.0 do 224.0.0.255.
+Pojedynczy pakiet mo¿na wys³aæ do grupy hostów. 
+Transmisja multiemisji mo¿e byæ u¿ywana przez routery do wymiany informacji o routingu. 
+Routery nie bêd¹ przekazywaæ adresów multiemisji w zakresie od 224.0.0.0 do 224.0.0.255. 
+Komputery u¿ywaj¹ transmisji multicast do ¿¹dania adresów IPv4.
+Wiadomoœci multiemisji mapuj¹ adresy ni¿szej warstwy na adresy wy¿szych warstw.

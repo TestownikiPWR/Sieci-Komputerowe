@@ -1,6 +1,6 @@
 X1000
-Jaki rodzaj medium komunikacyjnego jest u¿ywany z bezprzewodowym po³¹czeniem LAN?
-fale radiowe 
-w³ókno
-mikrofalowe
-UTP
+Technik sieci próbuje skonfigurowaæ interfejs, wprowadzaj¹c nastêpuj¹c¹ komendê: SanJose (config) # adres IP 192.168.2.1 255.255.255.0. Polecenie jest odrzucane przez urz¹dzenie. Jaka jest tego przyczyna?
+Polecenie jest wprowadzane z niew³aœciwego trybu dzia³ania. 
+Sk³adnia polecenia jest nieprawid³owa.
+Informacje o masce podsieci s¹ nieprawid³owe.
+Interfejs jest wy³¹czany i musi byæ w³¹czony, zanim prze³¹cznik zaakceptuje adres IP.

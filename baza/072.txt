@@ -1,6 +1,6 @@
-X0001
-Jaki rodzaj zabezpieczeñ bezprzewodowych korzysta z dynamicznych kluczy szyfrowania za ka¿dym razem, gdy klient kojarzy siê z AP?
-EAP
-PSK
-WEP
-WPA 
+X0010
+W jaki sposób jakoœæ us³ug pomaga sieci wspieraæ szeroki zakres aplikacji i us³ug?
+ograniczaj¹c wp³yw awarii sieci
+umo¿liwiaj¹c szybkie odzyskanie po awarii sieci
+przez zapewnienie mechanizmów do zarz¹dzania przeci¹¿onym ruchem sieciowym 
+zapewniaj¹c mo¿liwoœæ rozbudowy sieci, aby pomieœciæ nowych u¿ytkowników

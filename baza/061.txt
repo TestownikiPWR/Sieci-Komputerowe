@@ -1,0 +1,6 @@
+X0010
+Która nazwa domeny by³aby przyk³adem domeny najwy¿szego poziomu?
+www.cisco.com
+cisco.com
+.com 
+root.cisco.com

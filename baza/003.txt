@@ -1,6 +1,6 @@
 X0100
-Jaki jest przedrostek adresu hosta 2001: DB8: BC15: A: 12AB :: 1/64?
-2001: DB8: BC15
-2001: DB8: BC15: A 
-2001: DB8: BC15: A: 1
-2001: DB8: BC15: A: 12
+Jakie s¹ zalety korzystania z przetwarzania w chmurze w sieci?
+U¿ytkownicy koñcowi maj¹ swobodê korzystania z osobistych narzêdzi do uzyskiwania dostêpu do informacji i komunikowania siê w sieci biznesowej.
+Mo¿liwoœci sieciowe s¹ rozszerzane bez koniecznoœci inwestowania w now¹ infrastrukturê, personel lub oprogramowanie. 
+Technologia jest zintegrowana z codziennymi urz¹dzeniami, dziêki czemu mog¹ ³¹czyæ siê z innymi urz¹dzeniami, czyni¹c je bardziej „inteligentnymi” lub zautomatyzowanymi.
+Sieci domowe wykorzystuj¹ istniej¹ce okablowanie elektryczne do ³¹czenia urz¹dzeñ z sieci¹ wszêdzie tam, gdzie znajduje siê gniazdo elektryczne, co pozwala zaoszczêdziæ na kosztach instalowania kabli danych.

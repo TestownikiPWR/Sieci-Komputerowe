@@ -1,0 +1,6 @@
+X0001
+Jaki typ kabla UTP jest u¿ywany do pod³¹czenia komputera PC do portu prze³¹cznika?
+konsola
+rollover
+crossover
+prosto 

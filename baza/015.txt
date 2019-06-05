@@ -1,6 +1,8 @@
-X0001
-Jaki typ regu³y komunikacji najlepiej opisuje CSMA / CD?
-komunikat enkapsulacji
-kontrola przep³ywu
-kodowanie 
-dostêp do wiadomoœci
+X101100
+In¿ynier sieciowy mierzy transfer bitów w sieci szkieletowej firmy dla aplikacji baz danych o znaczeniu krytycznym. In¿ynier zauwa¿a, ¿e ??przepustowoœæ sieci wydaje siê ni¿sza ni¿ oczekiwana przepustowoœæ. Jakie trzy czynniki mog¹ wp³yn¹æ na ró¿nice w przepustowoœci? (Wybierz trzy.)
+iloœæ ruchu, który obecnie przekracza sieæ 
+wyrafinowanie metody enkapsulacji zastosowanej do danych
+rodzaj ruchu przechodz¹cego przez sieæ 
+opóŸnienie tworzone przez liczbê urz¹dzeñ sieciowych, przez które przep³ywaj¹ dane 
+przepustowoœæ po³¹czenia WAN z Internetem
+niezawodnoœæ infrastruktury Gigabit Ethernet szkieletu

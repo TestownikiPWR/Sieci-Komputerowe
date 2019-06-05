@@ -1,0 +1,8 @@
+X001000
+Po wprowadzeniu kilku zmian konfiguracji w routerze wydawane jest polecenie uruchamiania konfiguracji konfiguracji kopiowania. Gdzie bêd¹ przechowywane zmiany?
+Lampa b³yskowa
+ROM
+NVRAM 
+Baran
+rejestr konfiguracji
+serwer TFTP

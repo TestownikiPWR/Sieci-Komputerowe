@@ -1,7 +1,6 @@
 X0100
-Jak¹ funkcjê zapewnia TCP?
-
-enkapsulacja danych
-wykrywanie brakuj¹cych pakietów 
-kontrola sesji komunikacyjnych
-okreœlanie œcie¿ki dla pakietów danych
+Administrator sieci chce mieæ tê sam¹ maskê podsieci dla trzech podsieci w ma³ej witrynie. Witryna ma nastêpuj¹ce sieci i liczbê urz¹dzeñ:Jaka pojedyncza maska ??podsieci by³aby odpowiednia dla trzech podsieci?
+255.255.255.0
+255.255.255.240 
+255.255.255.248
+255.255.255.252

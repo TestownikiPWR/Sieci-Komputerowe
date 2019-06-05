@@ -1,0 +1,7 @@
+X11000
+W jakich dwóch okolicznoœciach prze³¹cznik zaleje ramkê z ka¿dego portu z wyj¹tkiem portu, na którym ramka zosta³a odebrana? (Wybierz dwa.)
+Ramka ma adres emisji jako adres docelowy. 
+Adres docelowy jest nieznany prze³¹cznikowi. 
+Adres Ÿród³owy w nag³ówku ramki jest adresem rozg³oszeniowym.
+Adres Ÿród³owy w ramce jest adresem multiemisji.
+Adres docelowy w ramce jest znanym adresem emisji pojedynczej.

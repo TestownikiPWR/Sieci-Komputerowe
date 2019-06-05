@@ -1,6 +1,6 @@
-X0010
-Które urz¹dzenie powinno byæ u¿ywane do umo¿liwienia hostowi komunikacji z innym hostem w innej sieci?
-prze³¹cznik
-centrum
-router 
-gospodarz
+X1000
+Du¿a korporacja zmodyfikowa³a swoj¹ sieæ, aby umo¿liwiæ u¿ytkownikom dostêp do zasobów sieciowych z ich osobistych laptopów i smartfonów. Który trend sieciowy to opisuje?
+przynieœ w³asne urz¹dzenie 
+wideokonferencje
+wspó³praca online
+Chmura obliczeniowa

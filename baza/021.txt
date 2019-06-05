@@ -1,0 +1,6 @@
+X0010
+Jaka jest cecha podwarstwy LLC?
+Zapewnia wymagane logiczne adresowanie, które identyfikuje urz¹dzenie.
+Zapewnia rozgraniczenie danych zgodnie z fizycznymi wymaganiami sygnalizacyjnymi medium.
+Umieszcza informacje w ramce, dziêki czemu wiele protoko³ów warstwy 3 mo¿e korzystaæ z tego samego interfejsu sieciowego i noœnika. 
+Definiuje procesy oprogramowania, które zapewniaj¹ us³ugi dla warstwy fizycznej.

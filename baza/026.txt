@@ -1,0 +1,7 @@
+X01010
+Jakie s¹ dwa przyk³ady metody prze³¹czania przez przeciêcie? (Wybierz dwa.)
+prze³¹czanie miêdzy zapisem i przesy³aniem
+szybkie prze³¹czanie 
+Prze³¹czanie CRC
+prze³¹czanie bez fragmentów 
+Prze³¹czanie QOS

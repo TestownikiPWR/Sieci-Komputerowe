@@ -1,0 +1,6 @@
+X0001
+Jakie informacje s¹ dodawane podczas enkapsulacji w OSI Layer 3?
+Ÿród³owy i docelowy MAC
+Ÿród³owy i docelowy protokó³ aplikacji
+numer portu Ÿród³owego i docelowego
+Ÿród³owy i docelowy adres IP 

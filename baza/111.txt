@@ -1,7 +1,6 @@
-X10100
-Jakie s¹ dwie cechy fizycznej topologii sieci gwiazd? (Wybierz dwa.)
-£atwo jest rozwi¹zaæ problem. 
-Urz¹dzenia koñcowe s¹ po³¹czone razem przez magistralê.
-£atwo jest dodawaæ i usuwaæ urz¹dzenia koñcowe. 
-Wszystkie urz¹dzenia koñcowe s¹ po³¹czone ze sob¹ ³añcuchem.
-Ka¿dy system koñcowy jest pod³¹czony do odpowiedniego s¹siada
+X0100
+Technik konfiguruje prze³¹cznik za pomoc¹ nastêpuj¹cych poleceñ: SwitchA (config) # interfejs vlan 1SwitchA (config-if) # adres IP 192.168.1.1 255.255.255.0SwitchA (config-if) # brak wy³¹czenia Co konfiguruje technik?
+Dostêp Telnet
+SVI 
+szyfrowanie has³a
+fizyczny dostêp do switchportu

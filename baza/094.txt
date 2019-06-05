@@ -1,0 +1,6 @@
+X0100
+Kiedy adresowanie IPv4 jest rêcznie konfigurowane na serwerze WWW, która w³aœciwoœæ konfiguracji IPv4 identyfikuje czêœæ sieci i hosta dla adresu IPv4?
+Adres serwera DNS
+maska ??podsieci
+Brama domyœlna
+Adres serwera DHCP

@@ -1,0 +1,6 @@
+X0010
+Które stwierdzenie dok³adnie opisuje proces enkapsulacji TCP / IP, gdy komputer wysy³a dane do sieci?
+Dane s¹ przesy³ane z warstwy internetowej do warstwy dostêpu do sieci.
+Pakiety s¹ wysy³ane z warstwy dostêpu do sieci do warstwy transportowej.
+Segmenty s¹ wysy³ane z warstwy transportowej do warstwy internetowej. 
+Ramki s¹ wysy³ane z warstwy dostêpu do sieci do warstwy internetowej.

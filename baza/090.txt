@@ -1,7 +1,6 @@
-X00100
-Który adres docelowy jest u¿ywany w ramce ¿¹dania ARP?
-0.0.0.0
-255.255.255.255
-FFFF.FFFF.FFFF 
-127.0.0.1
-01-00-5E-00-AA-23
+X0100
+Która us³uga zapewnia dynamiczne globalne adresowanie IPv6 do urz¹dzeñ koñcowych bez korzystania z serwera, który prowadzi rejestr dostêpnych adresów IPv6?
+stateful DHCPv6
+SLAAC 
+statyczne adresowanie IPv6
+stateless DHCPv6

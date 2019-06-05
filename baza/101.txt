@@ -1,6 +1,6 @@
-X0100
-Który protokó³ obs³uguje szybkie dostarczanie mediów strumieniowych?
-Protokó³ kontroli transmisji
-Protokó³ transportu w czasie rzeczywistym 
-Bezpieczny protokó³ przesy³ania plików
-Wideo przez protokó³ internetowy
+X0010
+In¿ynier sieci analizuje raporty z ostatnio wykonanej linii bazowej sieci. Która sytuacja przedstawia mo¿liwy problem opóŸnienia?
+zmiana szerokoœci pasma zgodnie z wyjœciem interfejsów show
+limit czasu nastêpnego skoku z traceroute
+wzrost czasów odpowiedzi ping hosta na host 
+zmiana iloœci pamiêci RAM zgodnie z wyjœciem w wersji pokazowej

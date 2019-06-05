@@ -1,7 +1,7 @@
-X10011
-Które trzy stwierdzenia charakteryzuj¹ protoko³y warstwy transportowej? (Wybierz trzy.)
-Numery portów TCP i UDP s¹ u¿ywane przez protoko³y warstwy aplikacji. 
-TCP u¿ywa numerów portów, aby zapewniæ niezawodny transport pakietów IP.
-UDP u¿ywa okienkowania i potwierdzeñ do niezawodnego przesy³ania danych.
-Protokó³ TCP wykorzystuje okienkowanie i sekwencjonowanie w celu zapewnienia niezawodnego przesy³ania danych. 
-TCP jest protoko³em zorientowanym na po³¹czenie. UDP jest protoko³em bezpo³¹czeniowym. 
+X10100
+Jakie s¹ dwie cechy adresów MAC Ethernet? (Wybierz dwa.)
+S¹ globalnie unikalne. 
+S¹ rutowalne w Internecie.
+S¹ one wyra¿one jako 12 cyfr szesnastkowych. 
+Adresy MAC korzystaj¹ z elastycznej struktury hierarchicznej.
+Adresy MAC musz¹ byæ unikalne dla obu interfejsów Ethernet i szeregowych na urz¹dzeniu.

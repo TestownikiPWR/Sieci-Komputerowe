@@ -1,7 +1,6 @@
-X00100
-Do jakiej starszej klasy adresów nale¿y adres 10.0.0.0?
-Klasa B
-Klasa D
-Klasa A 
-Klasa C
-Klasa E
+X0100
+Administrator u¿ywa kombinacji klawiszy Ctrl-Shift-6 na prze³¹czniku po wydaniu polecenia ping. Jaki jest cel korzystania z tych skrótów klawiszowych?
+zrestartowaæ proces pingowania
+przerwaæ proces ping
+aby wyjœæ do innego trybu konfiguracji
+aby umo¿liwiæ u¿ytkownikowi wykonanie polecenia

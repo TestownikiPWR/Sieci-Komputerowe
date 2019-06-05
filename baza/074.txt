@@ -1,6 +1,6 @@
 X0100
-Jaki jest adres podsieci dla adresu 2001: DB8: BC15: A: 12AB :: 1/64?
-2001: DB8: BC15 :: 0
-2001: DB8: BC15: A :: 0 
-2001: DB8: BC15: A: 1: 1
-2001: DB8: BC15: A: 12: 0
+Po wprowadzeniu zmian konfiguracyjnych na prze³¹czniku Cisco administrator sieci wydaje polecenie copy running-config startup-config. Jaki jest wynik wydania tego polecenia?
+Nowa konfiguracja zostanie zapisana w pamiêci flash.
+Nowa konfiguracja zostanie za³adowana, jeœli prze³¹cznik zostanie ponownie uruchomiony. 
+Aktualny plik IOS zostanie zast¹piony nowo skonfigurowanym plikiem.
+Zmiany konfiguracji zostan¹ usuniête, a oryginalna konfiguracja zostanie przywrócona.
