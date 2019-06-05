@@ -4,4 +4,4 @@ kawa³ki
 dane
 rama
 paczka
-cz³on
+segment

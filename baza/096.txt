@@ -3,6 +3,6 @@ Które dwa protoko³y dzia³aj¹ na najwy¿szej warstwie stosu protoko³ów TCP / IP? (
 DNS 
 Ethernet
 IP
-MUZYKA POP
+POP3
 TCP
 UDP
